@@ -1,0 +1,63 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<group>
+		<item 
+			android:id="@+id/de"
+			android:title="Home"
+		/> 
+		<item 
+			android:id="@+id/bb" 
+			
+			android:title="ေဖ့စ္ဘုတ္ဗီြဒီယိုမ်ား ေဒါင္းလုပ္ဆြဲရန္" /> 
+		<item
+			android:id="@+id/rr"
+			
+			android:title="အေကာင့္ဆက္တင္ အေျကာင္းရာမ်ား"/>
+		<item 
+			android:id="@+id/bb" 
+			
+			android:title="လံုျခံဳေရးနွင့္ သက္ဆိုင္ေသာ အေျကာင္းရာမ်ား" /> 
+		<item
+			android:id="@+id/rr"
+			
+			android:title="music"/>
+	</group> 
+
+	<item android:title="Communicate"> 
+		<menu> 
+			<item 
+				android:id="@+id/cc" 
+
+				
+
+				android:title="Send Email" /> 
+			<item 
+				android:id="@+id/dd" 
+				
+				android:title="Settings" /> 
+
+			<item 
+				android:id="@+id/dp" 
+				
+				android:title="More" /> 
+
+
+		</menu> 
+	</item> 
+
+	<item android:title="Admin"> 
+		<menu> 
+
+			<item 
+				android:id="@+id/dd" 
+				
+				android:title="ေဆာ့ဝဲစ္ေရးသားသူ" /> 
+			<item
+				android:id="@+id/aa"
+			
+				android:title="ေဆာ့ဝဲစ္ အေၾကာင္းအရာ"/>
+
+
+		</menu> 
+	</item> 
+</menu>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Web Pages</string>
+	<string name="open">open</string>
+	<string name="close">close</string>
+    <string name="btn_1">နိုင္ငံေတာ္သမၼတရံုး</string>
+	<string name="btn_2">ကာကြယ္ေရးဝန္ၾကီးဌာန</string>
+    <string name="btn_3">နယ္စပ္ေရးရာဝန္ၾကီးဌာန</string>
+	<string name="btn_4">ျပန္ၾကားေရးဝန္ၾကီးဌာန</string>
+	<string name="btn_5">နိုင္ငံျခားေရးဝန္ၾကီးဌာန</string>
+	<string name="btn_6">သာသနာေရးဝန္ၾကီးဌာန</string>
+    <string name="btn_7">သမဝါယမဝန္ၾကီးဌာန</string>
+	<string name="btn_8">လယ္ယာစိုက္ပ်ိဳးေရး ႏွင့္ဆည္ေျမာင္းဝန္ၾကီးဌာန</string>
+    <string name="btn_9">ဆက္သြယ္ေရး ႏွင့္သတင္းအခ်က္အလက္ နည္းပညာဝန္ၾကီးဌာန</string>
+	<string name="btn_10">လူဝန္မွုၾကီးၾကပ္ေရး ႏွင့္ျပည္သူ႔အင္အားဝန္ၾကီးဌာန</string>
+	<string name="btn_11">ေမြးျမဴေရးႏွင့္ေရလုပ္ငန္းဝန္ၾကီးဌာန</string>
+	<string name="btn_12">စြမ္းအင္ဝန္ၾကီးဌာန</string>
+    <string name="btn_13">ပို႔ေဆာင္ေရးဝန္ၾကီးဌာန</string>
+	<string name="btn_14">ပတ္ဝန္းက်င္ထိန္းသိမ္းေရး ႏွင့္သစ္ေတာေရးရာဝန္ၾကီးဌာန</string>
+    <string name="btn_15">စက္မွုဝန္ၾကီးဌာန</string>
+	<string name="btn_16">စီးပြားေရးႏွင့္ကူးသန္းေရာင္းဝယ္ေရးဝန္ၾကီးဌာန</string>
+	<string name="btn_17">လ်ွပ္စစ္စြမ္းအားဝန္ၾကီးဌာန</string>
+	<string name="btn_18">အားကစားဝန္ၾကီးဌာန</string>
+    <string name="btn_19">ပညာေရးဝန္ၾကီးဌာန</string>
+	<string name="btn_20">က်န္းမာေရးဝန္ၾကီးဌာန</string>
+    <string name="btn_21">သတၱဳတြင္းဝန္ၾကီးဌာန</string>
+	
+</resources>

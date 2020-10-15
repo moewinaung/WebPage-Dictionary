@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+
+	<LinearLayout
+		android:orientation="vertical"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+		<LinearLayout
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:orientation="horizontal">
+
+			<EditText
+				android:id="@+id/url"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:hint="www.google.com"
+				android:inputType="textUri"
+				android:layout_weight="1.0"
+				android:gravity="center_vertical"
+				android:layout_marginLeft="10dp"
+				android:background="@drawable/cc"
+				android:padding="12dp"
+				android:layout_marginTop="3dp"/>
+
+			<TextView
+				android:id="@+id/search"
+				android:layout_width="100dp"
+				android:layout_height="wrap_content"
+				android:text="Enter"
+				android:layout_marginTop="7dp"
+				android:textSize="24sp"
+				android:gravity="center"
+				android:textColor="#000000"/>
+
+		</LinearLayout>
+
+		<ProgressBar
+			android:id="@+id/pb"
+			style="?android:attr/progressBarStyleHorizontal"
+			android:layout_width="fill_parent"
+			android:layout_height="10dp"
+			android:layout_marginLeft="5dp"
+			android:layout_marginRight="5dp"/>
+
+		<WebView
+			android:id="@+id/WebView"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"/>
+
+	</LinearLayout>
+
+</LinearLayout>
+
+

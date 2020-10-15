@@ -1,0 +1,40 @@
+
+	<item
+		android:id="@+id/search"
+		android:icon="@drawable/sss"
+		android:title="Search"
+		app:showAsAction="ifRoom|withText"
+		app:actionViewClass="android.widget.SearchView"/>
+	
+	
+	
+	<AutoCompleteTextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:completionThreshold="1"
+		android:id="@+id/aaa"
+		android:background="@drawable/aa"
+		android:padding="20dp"/>
+		
+		AutoCompleteTextView aaa;
+	String[]inputs={"ant","about","aeroplane","bat","bird","board","cat","card","country",
+	"dog","done","doing","ear","eaten","enginner"};
+    
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+		
+		Toolbar toolbar=(Toolbar)findViewById(R.id.toolbar);
+		setSupportActionBar(toolbar);
+		
+		aaa=findViewById(R.id.aaa);
+		ArrayAdapter<String>adapter=new ArrayAdapter<String>(this,android.R.layout.simple_list_item_single_choice,inputs);
+		
+		aaa.setAdapter(adapter);
+		
+        
+    }
+    
+}
+		

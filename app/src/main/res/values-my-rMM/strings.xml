@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Web Pages</string>
+	<string name="open">open</string>
+	<string name="close">close</string>
+    <string name="btn_1">နိုင်ငံတော်သမ္မတရုံး</string>
+	<string name="btn_2">ကာကွယ်ရေးဝန်ကြီးဌာန</string>
+    <string name="btn_3">နယ်စပ်ရေးရာဝန်ကြီးဌာန</string>
+	<string name="btn_4">ပြန်ကြားရေးဝန်ကြီးဌာန</string>
+	<string name="btn_5">နိုင်ငံခြားရေးဝန်ကြီးဌာန</string>
+	<string name="btn_6">သာသနာရေးဝန်ကြီးဌာန</string>
+    <string name="btn_7">သမဝါယမဝန်ကြီးဌာန</string>
+	<string name="btn_8">လယ်ယာစိုက်ပျိုးရေး နှင့်ဆည်မြောင်းဝန်ကြီးဌာန</string>
+    <string name="btn_9">ဆက်သွယ်ရေး နှင့်သတင်းအချက်အလက် နည်းပညာဝန်ကြီးဌာန</string>
+	<string name="btn_10">လူဝန်မှုကြီးကြပ်ရေး နှင့်ပြည်သူ့အင်အားဝန်ကြီးဌာန</string>
+	<string name="btn_11">မွေးမြူရေးနှင့်ရေလုပ်ငန်းဝန်ကြီးဌာန</string>
+	<string name="btn_12">စွမ်းအင်ဝန်ကြီးဌာန</string>
+    <string name="btn_13">ပို့ဆောင်ရေးဝန်ကြီးဌာန</string>
+	<string name="btn_14">ပတ်ဝန်းကျင်ထိန်းသိမ်းရေး နှင့်သစ်တောရေးရာဝန်ကြီးဌာန</string>
+    <string name="btn_15">စက်မှုဝန်ကြီးဌာန</string>
+	<string name="btn_16">စီးပွားရေးနှင့်ကူးသန်းရောင်းဝယ်ရေးဝန်ကြီးဌာန</string>
+	<string name="btn_17">လျှပ်စစ်စွမ်းအားဝန်ကြီးဌာန</string>
+	<string name="btn_18">အားကစားဝန်ကြီးဌာန</string>
+    <string name="btn_19">ပညာရေးဝန်ကြီးဌာန</string>
+	<string name="btn_20">ကျန်းမာရေးဝန်ကြီးဌာန</string>
+    <string name="btn_21">သတ္တုတွင်းဝန်ကြီးဌာန</string>
+
+</resources>

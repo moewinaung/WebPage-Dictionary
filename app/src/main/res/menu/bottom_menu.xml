@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/b1"
+        android:title="Apple"/>
+    <item
+        android:id="@+id/b2"
+        android:title="Banana"/>
+
+	<item
+        android:id="@+id/b3"
+        android:title="Coconut"/>
+
+
+
+</menu>

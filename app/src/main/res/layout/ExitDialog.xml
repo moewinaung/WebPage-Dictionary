@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:gravity="center"
+	android:background="@drawable/bb">
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Are you exit ?"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:gravity="center"
+		android:textColor="#E4E41A"/>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="80dp"
+		android:gravity="center">
+
+		<Button
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="OK"
+			android:padding="15dp"
+			android:layout_marginRight="30dp"
+			android:id="@+id/b1"/>
+
+		<Button
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="CANCEL"
+			android:padding="15dp"
+			android:layout_marginLeft="30dp"
+			android:id="@+id/b2"/>
+
+	</LinearLayout>
+
+</LinearLayout>
+
